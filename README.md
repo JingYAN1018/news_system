@@ -1,3 +1,5 @@
+# 使用本系统之前请注意：
+需要安装axios、json-server、particle、echarts、redux，各个工具使用方法自行谷歌，或关注https://blog.csdn.net/qq_42241946?spm=1000.2115.3001.5343
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
